@@ -1,0 +1,2 @@
+1) Conectar con el servidor remoto 
+2) Host local
